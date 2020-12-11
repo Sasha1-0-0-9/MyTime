@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\MyTime\MyTime\bin\Debug\netcoreapp3.1\MyTime.exe
+C:\Users\asus\source\repos\MyTime\MyTime\bin\Debug\netcoreapp3.1\MyTime.deps.json
+C:\Users\asus\source\repos\MyTime\MyTime\bin\Debug\netcoreapp3.1\MyTime.runtimeconfig.json
+C:\Users\asus\source\repos\MyTime\MyTime\bin\Debug\netcoreapp3.1\MyTime.runtimeconfig.dev.json
+C:\Users\asus\source\repos\MyTime\MyTime\bin\Debug\netcoreapp3.1\MyTime.dll
+C:\Users\asus\source\repos\MyTime\MyTime\bin\Debug\netcoreapp3.1\MyTime.pdb
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.AssemblyInfo.cs
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.dll
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.pdb
+C:\Users\asus\source\repos\MyTime\MyTime\obj\Debug\netcoreapp3.1\MyTime.genruntimeconfig.cache
